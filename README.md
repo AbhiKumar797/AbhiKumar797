@@ -1,6 +1,6 @@
 # Abhishek Kumar
 
-I'm currently pursuing MCA @ NITK, Surathkal. I have hands-on experience in full-stack development, machine learning, and computer graphics. I enjoy building clean, maintainable, and efficient software using Java, C/C++, Python, and modern web technologies. I'm always eager to learn new things and work on projects that challenge me to grow as a developer.
+I'm currently pursuing MCA @ NITK, Surathkal. I have hands-on experience in full-stack development, machine learning, and Data Science. I enjoy building clean, maintainable, and efficient software using Java, C/C++, Python, and modern web technologies. I'm always eager to learn new things and work on projects that challenge me to grow as a developer.
 
 In addition to my academic work, I have developed strong practical skills across web development and data science:
 
