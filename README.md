@@ -1,10 +1,9 @@
 ### Abhishek Kumar
 
-I'm currently pursuing MCA @ NITK, Surathkal. I have hands-on experience in full-stack development, machine learning, and Data Science. I enjoy building clean, maintainable, and efficient software using Java, C/C++, Python, and modern web technologies. I'm always eager to learn new things and work on projects that challenge me to grow as a developer.
+MCA Candidate @ NITK, Surathkal. I have hands-on experience in full-stack development, machine learning, and Data Science. I enjoy building clean, maintainable, and efficient software using Java, C/C++, Python, and modern web technologies. I'm always eager to learn new things and work on projects that challenge me to grow as a developer.
 
----
 
-## Skills & Technologies 🚀
+## Skills & Technologies 
 
 ### Web Development
 - `React` for building responsive interfaces  
@@ -16,7 +15,7 @@ I'm currently pursuing MCA @ NITK, Surathkal. I have hands-on experience in full
 - ML model building using `Scikit-learn`  
 - Visualization and workflows with `Matplotlib` and `Jupyter Notebook`
 
-## Contact 📬  
+## Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-kumar-488450197/)
 [![Email](https://img.shields.io/badge/Email-ABHISHEKKUMAR?style=for-the-badge&logo=gmail&logoColor=white&color=D14836)](mailto:abhiofficial797@gmail.com)
 
