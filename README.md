@@ -1,32 +1,23 @@
-# Abhishek Kumar
+### Abhishek Kumar
 
 I'm currently pursuing MCA @ NITK, Surathkal. I have hands-on experience in full-stack development, machine learning, and Data Science. I enjoy building clean, maintainable, and efficient software using Java, C/C++, Python, and modern web technologies. I'm always eager to learn new things and work on projects that challenge me to grow as a developer.
 
-In addition to my academic work, I have developed strong practical skills across web development and data science:
-
-### Web Development
-- Experienced in building interactive front-end interfaces with `React`
-- Skilled in developing backend services using `Node.js` and `Express`
-- Comfortable working with `HTML`, `CSS`, and `JavaScript` for clean and responsive UI development
-- Familiar with modern toolchains like `Vite` and UI frameworks like `Bootstrap` to streamline development
-
-### Data Science & Machine Learning
-- Skilled in data handling and analysis using `NumPy` and `Pandas`
-- Capable of building ML models and preprocessing pipelines using `Scikit-learn`
-- Experienced in visualization and exploratory analysis with `Matplotlib`
-- Efficient in experimentation and workflow documentation using `Jupyter Notebook`
-
-### Development Approach
-- Focused on writing clear, organized, and maintainable code
-- Strong interest in designing structured workflows, from data preparation to model evaluation
-- Consistent in applying good coding practices and iterative improvement
-
 ---
 
-## Contact
+## Skills & Technologies 🚀
 
-**LinkedIn:**  
-https://www.linkedin.com/in/abhishek-kumar-488450197/
+### Web Development
+- `React` for building responsive interfaces  
+- `Node.js` + `Express` for backend APIs  
+- Strong foundation in `HTML`, `CSS`, and `JavaScript`
 
-**Email:**  
-abhiofficial797@gmail.com
+### Data Science & ML
+- Data analysis with `Pandas` and `NumPy`  
+- ML model building using `Scikit-learn`  
+- Visualization and workflows with `Matplotlib` and `Jupyter Notebook`
+
+## Contact 📬  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-kumar-488450197/)
+[![Email](https://img.shields.io/badge/Email-ABHISHEKKUMAR?style=for-the-badge&logo=gmail&logoColor=white&color=D14836)](mailto:abhiofficial797@gmail.com)
+
+
